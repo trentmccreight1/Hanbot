@@ -1,0 +1,1 @@
+module.load(header.id, 'Champions/' ..  player.charName)
